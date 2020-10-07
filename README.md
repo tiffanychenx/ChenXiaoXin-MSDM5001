@@ -7,9 +7,9 @@ MSDM5001-assignment1
 Please read the pdf and run 5001_homework_question 1.bashrc
 # For the second question about Bash script
 
-Just Run ./5001_homework.sh
+Just Run 5001_homework_question 2.sh
 
 # For the third question aboutRegular expression
 
-Just Run python print_blocklist.py
-The blocklist.xml is 
+Please execute the command:  python 5001_homework_question 3_print_blocklist.py
+
