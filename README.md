@@ -3,7 +3,8 @@ MSDM5001-assignment1
 
 
 # README
-# For the first question， solution is in the pdf
+# For the first question， 
+Please read the pdf and run 5001_homework_question 1.bashrc
 # For the second question about Bash script
 
 Just Run ./5001_homework.sh
